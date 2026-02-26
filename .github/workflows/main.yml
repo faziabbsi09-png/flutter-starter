@@ -1,3 +1,4 @@
+
 name: Flutter Build APK
 on: [push]
 
@@ -32,4 +33,3 @@ jobs:
         with:
           name: star-chat-apk
           path: app/build/app/outputs/flutter-apk/app-release.apk
-       
